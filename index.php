@@ -1,4 +1,4 @@
 <?php
-echo "hello world";
-
+echo "hello world..";
+the_field('mydatafield');
 ?>
